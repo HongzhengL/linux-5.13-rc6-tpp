@@ -1,0 +1,9 @@
+--- drivers/Kconfig
++++ drivers/Kconfig
+@@ -228,4 +228,6 @@ source "drivers/interconnect/Kconfig"
+ 
+ source "drivers/counter/Kconfig"
+ 
++source "drivers/cxl_mem/Kconfig"
++
+ endmenu

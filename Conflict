@@ -1,0 +1,18 @@
+patching file .config
+patching file .gitignore
+Hunk #1 FAILED at 91.
+1 out of 1 hunk FAILED -- saving rejects to file .gitignore.rej
+patching file arch/x86/mm/numa.c
+Hunk #1 succeeded at 627 (offset 15 lines).
+Hunk #2 succeeded at 700 (offset 15 lines).
+patching file drivers/Kconfig
+Hunk #1 FAILED at 228.
+1 out of 1 hunk FAILED -- saving rejects to file drivers/Kconfig.rej
+patching file drivers/Makefile
+Hunk #1 FAILED at 186.
+1 out of 1 hunk FAILED -- saving rejects to file drivers/Makefile.rej
+patching file drivers/cxl_mem/Kconfig
+patching file drivers/cxl_mem/Makefile
+patching file drivers/cxl_mem/bf.h
+patching file drivers/cxl_mem/cxl_mem_driver.c
+patching file drivers/cxl_mem/cxl_mem_driver.h
